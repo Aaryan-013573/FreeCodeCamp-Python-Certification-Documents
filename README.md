@@ -1,10 +1,10 @@
-# 🐍 freeCodeCamp Python Certification — Learning Journey
+# freeCodeCamp Python Certification — Learning Journey
 
 A daily log of my progress through freeCodeCamp's [Python Certification](https://www.freecodecamp.org/learn/python-v9/) (the new v9 curriculum, launched December 2025), paired with Socratic tutoring sessions guided by Claude.
 
 ---
 
-## 📍 Where I am right now
+## Where I am right now
 
 - **Current module:** _e.g. Python Basics_
 - **Current section:** _e.g. Lecture — Introduction to Python_
@@ -14,7 +14,7 @@ A daily log of my progress through freeCodeCamp's [Python Certification](https:/
 
 ---
 
-## 🎯 What this repo is
+## What this repo is
 
 This is a public learning trail. Every study day, I write an entry in my Google Doc, then copy it here as a markdown file so it's searchable, shareable, and version-controlled.
 
@@ -22,7 +22,7 @@ The goal isn't just to finish the certification — it's to actually retain what
 
 ---
 
-## 📚 Daily entries
+## Daily entries
 
 Newest at the top. Each entry follows the structure in [`TEMPLATE.md`](./TEMPLATE.md).
 
@@ -34,7 +34,7 @@ _(Add a row each study day. The link points to that day's markdown file.)_
 
 ---
 
-## 🗺️ Module progress (13 modules, in order)
+## Module progress (13 modules, in order)
 
 Each module follows the same rhythm: **lessons → workshops → labs → review → 20-question quiz** (18/20 to pass).
 
@@ -54,7 +54,7 @@ Each module follows the same rhythm: **lessons → workshops → labs → review
 
 ---
 
-## 🏆 Certification projects (5 required)
+## Certification projects (5 required)
 
 Must complete all five to unlock the final exam.
 
@@ -66,7 +66,7 @@ Must complete all five to unlock the final exam.
 
 ---
 
-## 🎓 Final certification exam
+## Final certification exam
 
 - [ ] **50-question closed-book exam** taken in freeCodeCamp's open-source Exam Environment app (desktop/laptop only)
 - One attempt per 168 hours (one week cooldown)
@@ -74,7 +74,7 @@ Must complete all five to unlock the final exam.
 
 ---
 
-## 🧰 How I'm learning
+## How I'm learning
 
 - **freeCodeCamp Python Certification** — primary curriculum, hands-on coding in the browser-based Python editor
 - **Claude (Socratic tutoring)** — weekly sessions where I'm asked guiding questions instead of given direct answers
@@ -82,13 +82,13 @@ Must complete all five to unlock the final exam.
 
 ---
 
-## 📈 Reflections
+## Reflections
 
 _Add a short paragraph here every few weeks looking back at what's changed. Future-you will appreciate it._
 
 ---
 
-## 📎 Useful links
+## Useful links
 
 - Course page: https://www.freecodecamp.org/learn/python-v9/
 - Course announcement: [freeCodeCamp's New Python Certification is Now Live](https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/)
